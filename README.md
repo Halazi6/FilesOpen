@@ -1,6 +1,6 @@
 # FilesOpen
 ## 📥 下载最新版本
-[![Download](https://img.shields.io/badge/Download-v1.0.3-blue?style=for-the-badge)]([https://github.com/Halazi6/FilesOpen/releases/download/v1.0.3/FilesOpen v1.03_setup.exe](https://github.com/Halazi6/FilesOpen/releases/download/1.0.3/FilesOpen.v1.03_setup.exe))
+[![Download](https://img.shields.io/badge/Download-v1.0.3-blue?style=for-the-badge)](https://github.com/Halazi6/FilesOpen/releases/download/1.0.3/FilesOpen.v1.03_setup.exe)
 
 FilesOpen是一款专注于批量启动的免费桌面辅助工具。用于集中管理、批量启动、快速定位文件 / 文件夹，支持分组、拖拽、状态标记，备忘，适合项目文档、常用路径统一管理，一键恢复工作环境。
 
